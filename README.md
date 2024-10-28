@@ -26,7 +26,7 @@ Please note that it's crucial to ensure the quality and reliability of the datas
 ## Usage
 1) Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/kajolshah310/fake_news_classification.git
+git clone https://github.com/atharvapatil1/Fake-News-Classification/tree/main
 ```
 2) Navigate to the repository's directory:
 ```
